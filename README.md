@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 ’m lookincg for java Developer position<br>🌱 I’m currently learning SpringBoot Framework<br>💬 Ask me about Core Java, SpringBoot, Sql, Docker, GitHub 
+🔭 I’m lookincg for Associate java Developer position<br> 💬 Ask me about Core Java, SpringBoot, Sql, Docker, GitHub 
 
 
 ## 🌐 Socials:
